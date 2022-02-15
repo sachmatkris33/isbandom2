@@ -1,1 +1,2 @@
-# isbandom2
+# isbandom2   
+# ka jus vaikai
